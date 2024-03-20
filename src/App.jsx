@@ -10,6 +10,7 @@ function App() {
 
   const handleChange = (event) => {
     setQuery(event.target.value);
+    // hello
   };
 
   const handleSubmit = async (event) => {
